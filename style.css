@@ -209,8 +209,8 @@
     font-size: 2.25rem;
     margin-top: 0;
   }
-}</style>
-    <style class="u-style">.u-section-3 .u-shape-1 {
+}
+.u-section-3 .u-shape-1 {
   width: calc(((100% - 1140px) / 2) + 1050px);
   left: auto;
   right: 0;
@@ -648,8 +648,8 @@
     margin-left: 6px;
     margin-right: 6px;
   }
-}</style>
-    <style class="u-style">.u-section-4 .u-shape-1 {
+}
+.u-section-4 .u-shape-1 {
   width: calc(((100% - 1140px) / 2) + 1042px);
   height: 338px;
   margin: 345px auto 0 0;
@@ -1178,8 +1178,8 @@
   .u-section-5 .u-link-1 {
     margin-right: 255px;
   }
-}</style>
-    <style class="u-style">.u-section-6 .u-shape-1 {
+}
+.u-section-6 .u-shape-1 {
   width: calc(((100% - 1140px) / 2) + 1042px);
   height: 286px;
   margin: 411px 0 0 auto;
